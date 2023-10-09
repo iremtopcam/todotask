@@ -1,0 +1,12 @@
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\bin\Debug\net6.0\ToDoApp.Entities1.deps.json
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\bin\Debug\net6.0\ToDoApp.Entities1.dll
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\bin\Debug\net6.0\ToDoApp.Entities1.pdb
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ToDoApp.Entities1.csproj.AssemblyReference.cache
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ToDoApp.Entities1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ToDoApp.Entities1.AssemblyInfoInputs.cache
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ToDoApp.Entities1.AssemblyInfo.cs
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ToDoApp.Entities1.csproj.CoreCompileInputs.cache
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ToDoApp.Entities1.dll
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\refint\ToDoApp.Entities1.dll
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ToDoApp.Entities1.pdb
+C:\Users\irem.topcam\source\repos\ToDoTask1\ToDoApp.Entities1\obj\Debug\net6.0\ref\ToDoApp.Entities1.dll

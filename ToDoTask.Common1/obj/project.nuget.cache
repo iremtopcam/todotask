@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuxyOEw1C+O6CKOYfuITAvZNZMK3ywUGEvSigB9E61u4bynuoMxyWXUuxb0/vkbbVvlQdP86v5pP0xPD0GgOkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irem.topcam\\source\\repos\\ToDoTask1\\ToDoTask.Common1\\ToDoTask.Common1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus3.logo.com.tr:8081/repository/nuget-elogocore/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus3.logo.com.tr:8081/repository/nuget-nafcore/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
